@@ -31,8 +31,5 @@
   "forms": {
     "nukeForm": "/internal/forms/nuke",
     "nukePostForm": "/internal/forms/nuke-post"
-  },
-  "dev": {
-    "subreddit": "test_honk_dev"
   }
 }
